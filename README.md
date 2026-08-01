@@ -2,14 +2,14 @@
 
 # 📕 PDF Merge
 
-### Use PDF Merge free on ToolAdda — quick, accurate, and browser-based.
+### Combine multiple PDF documents into one file with our pdf merge free tool. Drag to reorder, preview pages, rotate files — everything runs in your browser with no upload and no watermark. Need to merge PDF and JPG or merge PNG to PDF first? Convert your images, then merge the PDF here.
 
 [![Visit PDF Merge](https://img.shields.io/badge/Visit%20PDF%20Merge-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/pdf-merge.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/pdf-merge.html)
 [![Category](https://img.shields.io/badge/PDF%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Use Pdf Merge | ToolAdda with ToolAdda to complete tasks quickly, accurately, and privately in your browser.**
+**PDF merge free — combine multiple PDF files online free in your browser. Merge PDF and JPG, merge PNG to PDF, drag to reorder, preview pages, and download instantly. No upload, no watermark.**
 
 [🚀 **Open PDF Merge Now →**](https://tooladda.online/pdf-merge.html)
 
@@ -91,10 +91,27 @@ Visit tooladda.online — search for PDF Merge or use the link in this repositor
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>pdf merge</code>&nbsp;
-  <code>free pdf merge</code>&nbsp;
-  <code>online pdf merge</code>&nbsp;
-  <code>pdf merge tooladda</code>&nbsp;
+  <code>merge pdf</code>&nbsp;
+  <code>combine pdf</code>&nbsp;
+  <code>combine pdf files</code>&nbsp;
+  <code>pdf merger</code>&nbsp;
+  <code>join pdf</code>&nbsp;
+  <code>merge pdf online</code>&nbsp;
+  <code>free pdf merger</code>&nbsp;
+  <code>combine pdfs online</code>&nbsp;
+  <code>merge multiple pdf files</code>&nbsp;
+  <code>pdf combiner</code>&nbsp;
+  <code>pdf merge free</code>&nbsp;
+  <code>pdf file merge</code>&nbsp;
+  <code>merge png to pdf</code>&nbsp;
+  <code>merge pdf and jpg</code>&nbsp;
+  <code>pdf and jpg merge</code>&nbsp;
+  <code>merge the pdf</code>&nbsp;
+  <code>pdf and image merge</code>&nbsp;
+  <code>pdf merge files</code>&nbsp;
+  <code>pdf to pdf merge</code>&nbsp;
+  <code>pdf to merge</code>&nbsp;
+  <code>pdf merge online</code>&nbsp;
 </p>
 
 ---
@@ -111,4 +128,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: PDF Merge, pdf merge, free pdf merge, online pdf merge, pdf merge tooladda, tooladda, free online tool -->
+<!-- SEO: PDF Merge, merge pdf, combine pdf, combine pdf files, pdf merger, join pdf, merge pdf online, free pdf merger, combine pdfs online, merge multiple pdf files, pdf combiner, pdf merge free, pdf file merge, merge png to pdf, merge pdf and jpg, pdf and jpg merge, merge the pdf, pdf and image merge, pdf merge files, pdf to pdf merge, pdf to merge, pdf merge online, tooladda, free online tool -->
